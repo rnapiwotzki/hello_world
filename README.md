@@ -1,2 +1,2 @@
 # hello_world
-Repo for Hello World programs
+Repo for Hello World programs.
